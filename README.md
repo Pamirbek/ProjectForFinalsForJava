@@ -12,7 +12,7 @@ Title of the project | Student Registration
 Background | It is very interesting to know how do system make data bases to work with them in future. And I wanted to know how do people automize some easy stuff in modern world
 Aim of the project | Aim is to make work with data about students easier
 Expected outcomes | More knowledge in Java and its libraries, almost completed desktop app
-Proposed activities | -
+Proposed activities | Edit code to make a project
 Estimative budget | No budget
 Proposed partners | No partners
 Git repository link | https://github.com/Pamirbek/ProjectForFinalsForJava/blob/master/README.md
