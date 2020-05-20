@@ -24,4 +24,4 @@ Proposed activities | Edit code to make a project
 Estimative budget | No budget
 Proposed partners | No partners
 Git repository link | https://github.com/Pamirbek/ProjectForFinalsForJava/tree/master
-Contact person | Name: Pamirbek, surname: Almazbekov, email: pamirbek.almazbekov@iaau.edu.kg, phone number: +996701222002
+Contact person | Name: Pamirbek, surname: Almazbekov, email: pamirbek.almazbekov@iaau.edu.kg
