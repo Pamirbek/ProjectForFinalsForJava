@@ -23,5 +23,5 @@ Expected outcomes | More knowledge in Java and its libraries, almost completed d
 Proposed activities | Edit code to make a project
 Estimative budget | No budget
 Proposed partners | No partners
-Git repository link | https://github.com/Pamirbek/ProjectForFinalsForJava/blob/master/README.md
+Git repository link | https://github.com/Pamirbek/ProjectForFinalsForJava/tree/master
 Contact person | Name: Pamirbek, surname: Almazbekov, email: pamirbek.almazbekov@iaau.edu.kg, phone number: +996701222002
