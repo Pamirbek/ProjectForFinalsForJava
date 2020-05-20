@@ -11,7 +11,7 @@ Txt file is for "database" in my project. When we click "Submit" button project 
 ### Exceptions
 In console you can see the exception if you leave one of the inputs empty. And that is not all. If student does not fill email with "@" and "." it will throw an exception again, but this time saying that email was not written properly. Also for text field "Date of birth" there is exception for character "/". Not only exception will appear in console, but also text describing the input problem under buttons "Submit" and "Clear".
 ### Classes
-To work with classes, Student class was created. It has all parameters that are introduced in our Student-ID cards. For example: names, surnames, ID in university, department and more. And I use these classes in a new window. And to show information about them I used getters method.
+To work with classes, Student class was created. It has all parameters that are introduced in our Student-ID cards. For example: names, surnames, ID in university, department and more. And I use these classes in a new window. And to show information about them I used getters method. Also every JFrame is another class. For instance: Registration and Students windows are two classes in my project.
 
 ### Let me show you table from "Project Proposal.pdf" file
 
